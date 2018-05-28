@@ -4,7 +4,7 @@
 
 Folders are named after the "slide" they represent in the visualization. For example, "s0" corresponds to slide zero, "s1" is slide one.
 
-Map layers should be in GeoJSON format, UTF-8 encoding. Column names and file names should be all lowercase, no special characters, and use underlines in place of spaces.
+Map layers should be in GeoJSON format, UTF-8 encoding, and use the [EPSG:3857 projection](https://epsg.io/3857). Column names and file names should be all lowercase, no special characters, and use underlines in place of spaces.
 
 Do not rename files after they've been uploaded unless it is strictly necessary.
 
