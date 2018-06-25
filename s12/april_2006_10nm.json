@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "April_2006_10nm",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "id": 0, "properties": { "FID": 0, "Id": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.261633809307092, 31.515631518331084 ], [ 34.204480243318855, 31.561552870746674 ], [ 34.096974867628994, 31.454506411105708 ], [ 34.151379805809988, 31.406860837710258 ], [ 34.261633809307092, 31.515631518331084 ] ] ] } }
-]
-}
