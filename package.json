@@ -1,0 +1,22 @@
+{
+  "name": "map-data",
+  "version": "1.0.0",
+  "description": "## How to organize this repository",
+  "main": "bounds.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btplat/map-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/btplat/map-data/issues"
+  },
+  "homepage": "https://github.com/btplat/map-data#readme",
+  "dependencies": {
+    "@turf/turf": "^5.1.6"
+  }
+}
