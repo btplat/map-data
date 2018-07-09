@@ -24,7 +24,7 @@ const geojsons = [];
 // const geojsonsBounds = [];
 const geojsonsBounds = {};
 
-fromDir('.', '.geojson');
+fromDir('data/', '.geojson');
 
 
 let geojsonsProcessed = 0;
