@@ -3,11 +3,11 @@
 "name": "gaza_crossings",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "object_id": 0, "name_en": "Rafah Crossing Point", "name_he": null, "name_ar": null, "type_en": "Primary Crossing Point", "type_he": null, "type_ar": null }, "geometry": { "type": "Point", "coordinates": [ 34.25744, 31.24806 ] } },
-{ "type": "Feature", "properties": { "object_id": 1, "name_en": "Sufa Crossing Point", "name_he": null, "name_ar": null, "type_en": "Secondary Crossing Point", "type_he": null, "type_ar": null }, "geometry": { "type": "Point", "coordinates": [ 34.32681, 31.2574 ] } },
-{ "type": "Feature", "properties": { "object_id": 2, "name_en": "Erez Crossing Point", "name_he": null, "name_ar": null, "type_en": "Primary Crossing Point", "type_he": null, "type_ar": null }, "geometry": { "type": "Point", "coordinates": [ 34.54332, 31.5583 ] } },
-{ "type": "Feature", "properties": { "object_id": 3, "name_en": "Karni Crossing Point", "name_he": null, "name_ar": null, "type_en": "Primary Crossing Point", "type_he": null, "type_ar": null }, "geometry": { "type": "Point", "coordinates": [ 34.48306, 31.47834 ] } },
-{ "type": "Feature", "properties": { "object_id": 4, "name_en": "Nahal Oz", "name_he": null, "name_ar": null, "type_en": "Secondary Crossing Point", "type_he": null, "type_ar": null }, "geometry": { "type": "Point", "coordinates": [ 34.49164, 31.48502 ] } },
-{ "type": "Feature", "properties": { "object_id": 5, "name_en": "Kerem Shalom Crossing Point", "name_he": null, "name_ar": null, "type_en": "Secondary Crossing Point", "type_he": null, "type_ar": null }, "geometry": { "type": "Point", "coordinates": [ 34.27079, 31.22398 ] } }
+{ "type": "Feature", "properties": { "object_id": 0, "name_en": "Rafah Crossing Point", "name_he": "מעבר רפיח", "name_ar": "معبر رفح", "type_en": "Primary Crossing Point", "type_he": "", "type_ar": "معبر رئيسي" }, "geometry": { "type": "Point", "coordinates": [ 34.25744, 31.24806 ] } },
+{ "type": "Feature", "properties": { "object_id": 1, "name_en": "Sufa Crossing Point", "name_he": "מעבר סופה", "name_ar": "معبر صوفا", "type_en": "Secondary Crossing Point", "type_he": "", "type_ar": "معبر ثانوي" }, "geometry": { "type": "Point", "coordinates": [ 34.32681, 31.2574 ] } },
+{ "type": "Feature", "properties": { "object_id": 2, "name_en": "Erez Crossing Point", "name_he": "מעבר ארז", "name_ar": "معبر إيرز", "type_en": "Primary Crossing Point", "type_he": "", "type_ar": "معبر رئيسي" }, "geometry": { "type": "Point", "coordinates": [ 34.54332, 31.5583 ] } },
+{ "type": "Feature", "properties": { "object_id": 3, "name_en": "Karni Crossing Point", "name_he": "מעבר קרני", "name_ar": "معبر كرمي تسور", "type_en": "Primary Crossing Point", "type_he": "", "type_ar": "معبر رئيسي" }, "geometry": { "type": "Point", "coordinates": [ 34.48306, 31.47834 ] } },
+{ "type": "Feature", "properties": { "object_id": 4, "name_en": "Nahal Oz Crossing Point", "name_he": "מעבר נחל עוז", "name_ar": "ناحل عوز", "type_en": "Secondary Crossing Point", "type_he": "", "type_ar": "معبر ثانوي" }, "geometry": { "type": "Point", "coordinates": [ 34.49164, 31.48502 ] } },
+{ "type": "Feature", "properties": { "object_id": 5, "name_en": "Kerem Shalom Crossing Point", "name_he": "מעבר כרם שלום", "name_ar": "معبر كيرم شلوم", "type_en": "Secondary Crossing Point", "type_he": "", "type_ar": "معبر ثانوي" }, "geometry": { "type": "Point", "coordinates": [ 34.27079, 31.22398 ] } }
 ]
 }

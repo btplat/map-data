@@ -3,10 +3,9 @@
 "name": "five_fingers_plan",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "object_id": 1, "radius": 10 }, "geometry": { "type": "Point", "coordinates": [ 34.45046, 31.51241 ] } },
-{ "type": "Feature", "properties": { "object_id": 2, "radius": 6 }, "geometry": { "type": "Point", "coordinates": [ 34.38775, 31.45799 ] } },
-{ "type": "Feature", "properties": { "object_id": 3, "radius": 6 }, "geometry": { "type": "Point", "coordinates": [ 34.30303, 31.35094 ] } },
-{ "type": "Feature", "properties": { "object_id": 4, "radius": 6 }, "geometry": { "type": "Point", "coordinates": [ 34.25461, 31.30206 ] } },
-{ "type": "Feature", "properties": { "object_id": 5, "radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 34.1864, 31.28702 ] } }
+{ "type": "Feature", "properties": { "object_id": 1, "radius": 10, "name_en": "\"Five Finger\" Plan", "name_he": "תכנית \"חמש האצבעות\"", "name_ar": "خطة الأصابع الخمس (الممرات الخمس)" }, "geometry": { "type": "Point", "coordinates": [ 34.52189, 31.55766 ] } },
+{ "type": "Feature", "properties": { "object_id": 2, "radius": 6, "name_en": "\"Five Finger\" Plan", "name_he": "תכנית \"חמש האצבעות\"", "name_ar": "خطة الأصابع الخمس (الممرات الخمس)" }, "geometry": { "type": "Point", "coordinates": [ 34.41338, 31.4657 ] } },
+{ "type": "Feature", "properties": { "object_id": 3, "radius": 6, "name_en": "\"Five Finger\" Plan", "name_he": "תכנית \"חמש האצבעות\"", "name_ar": "خطة الأصابع الخمس (الممرات الخمس)" }, "geometry": { "type": "Point", "coordinates": [ 34.33705, 31.38385 ] } },
+{ "type": "Feature", "properties": { "object_id": 4, "radius": 6, "name_en": "\"Five Finger\" Plan", "name_he": "תכנית \"חמש האצבעות\"", "name_ar": "خطة الأصابع الخمس (الممرات الخمس)" }, "geometry": { "type": "Point", "coordinates": [ 34.28555, 31.3112 ] } }
 ]
 }
